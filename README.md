@@ -2,6 +2,9 @@
 <h3 align="center">Biólogo que migrou para programação, curioso, desesperado para aprender e compartilhar conhecimento neste breve espaço-tempo</h3>
 
 - 📫 How to reach me **ferjmonteiro@gmail.com**
+- <img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)}" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
