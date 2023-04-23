@@ -4,8 +4,7 @@
 - 📫 How to reach me **ferjmonteiro@gmail.com**
 
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)}" />
+<img src="{[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]}" />
 
 
 <h3 align="left">Connect with me:</h3>
